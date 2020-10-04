@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+
+ <Library>
+  	<Author id="1" name="IvanFranko">
+   		<Book id="1" name="Moisei" isadult="1" pages="150"/>
+   		<Book id="2" name="FarbovanyiLys" isadult="0" pages="50"/>
+  	</Author>
+  	<Author id="2" name="TarasShevchenko ">
+   		<Book id="3" name="Kateryna" isadult="1" pages="45"/>
+   		<Book id="4" name="Kobzar" isadult="1" pages="250"/>
+  	</Author>
+ </Library>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<library>
+	<author id="1" name="IvanFranko"/>
+	<author id="2" name="TarasShevchenko"/>
+	<book id="1" isadult="1" name="Moisei" pages="150"/>
+	<book id="2" isadult="0" name="FarbovanyiLys" pages="50"/>
+</library>

@@ -1,0 +1,19 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Library (Author)+>
+<!ATTLIST Library
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Author (Book)+>
+<!ATTLIST Author
+  xmlns CDATA #FIXED ''
+  id CDATA #REQUIRED
+  name NMTOKEN #REQUIRED>
+
+<!ELEMENT Book EMPTY>
+<!ATTLIST Book
+  xmlns CDATA #FIXED ''
+  id CDATA #REQUIRED
+  isadult CDATA #REQUIRED
+  name NMTOKEN #REQUIRED
+  pages CDATA #REQUIRED>
